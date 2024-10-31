@@ -11,7 +11,7 @@
 - **High-speed gameplay**: Navigate through dense traffic, collecting points and avoiding accidents.
 - **Multiple modes**: Choose from various game modes and weather conditions to challenge your driving skills.
 - **Device Compatibility**: Playable on desktop and mobile devices without installation.
-- **Leaderboard**: Compete with friends for the highest score.
+- **Leaderboard**: Compete with friends for the highest score. More: [UniTV](https://github.com/Uni-TV)
 
 ## How to Play
 
